@@ -1,0 +1,23 @@
+header{
+    color: white;
+    height: 200px;
+    background-image: url('../image/doIT.jpg');
+    background-size: cover;
+    background-blend-mode: multiply; 
+    background-color:gray ;
+    background-repeat: no-repeat;
+}
+.blog{
+    background-color: teal;
+    text-align: center;
+    border: 5px solid yellowgreen;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    width: 50%;
+    box-shadow: 10px 10px 10px rgba(31, 110, 106, 0.226);
+    
+}
+h3{
+    text-decoration: underline;
+}
